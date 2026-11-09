@@ -12,7 +12,7 @@ Expected. Its USB-C port is **power only**. Firmware is uploaded over Wi-Fi inst
 ## The update page won't open
 
 - Make sure you're still connected to **`IR_WIFI`**. Windows sometimes switches away because the network has no internet.
-- Type **`http://192.168.4.1`** with `http://`, then click the **Update** button. Going straight to `/u` didn't work for us.
+- Type **`http://192.168.4.1`** with `http://`, then click the **Update** button. You can also go straight to `http://192.168.4.1/u`; if that fails, open the menu first.
 - On iPhone or iPad, close the automatic pop-up and use Safari; the pop-up often can't pick files.
 
 ## IR_WIFI disappeared and the old firmware is still on
